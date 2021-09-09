@@ -101,8 +101,8 @@ height: 100vh;
     flex: 1;
 }
 .section_Historia_Imagem img{
-    height: 275px;
-    width: 275px;
+    height: 150px;
+    width: 150px;
     border-radius: 15px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
     margin-bottom: 0.7em;
@@ -111,7 +111,7 @@ height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: 2;
+    flex: 3;
     flex-direction:column;
 }
 .buttons{
